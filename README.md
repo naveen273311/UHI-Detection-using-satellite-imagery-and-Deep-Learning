@@ -1,4 +1,4 @@
-<img src="data/presentation/heat_island_wolfsburg_slice.png" alt="Header image showing Land Surface Temperature" width="100%"/>
+
 
 # Urban Heat Island Detector
 
