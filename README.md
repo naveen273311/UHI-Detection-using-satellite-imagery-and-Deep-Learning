@@ -1,4 +1,4 @@
-
+<img src="data/presentation/heat_island_wolfsburg_slice.png" alt="Header image showing Land Surface Temperature" width="100%"/>
 
 # Urban Heat Island Detector
 
@@ -99,4 +99,4 @@ Here some **image examples** from the project, all except the building footprint
 <a href="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_luminance.png">
   <img src="https://github.com/yotkadata/uhi_detector/blob/main/data/presentation/berlin_luminance.png?raw=true" width="100%" />
 </a>
-# UHI-Detection-using-satellite-imagery-and-Deep-Learning
+
